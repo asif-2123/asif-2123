@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Engineering+Student;Software+Development+%7C+DSA;Aspiring+Software+Engineer&center=true&width=540&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Engineering+Student;Software+Developer+%7C+DSA;Aspiring+Software+Engineer&center=true&width=540&height=45">
 </p>
 
 <p align="center">
-  <b>Computer Science Engineering student | Software Development | DSA</b>
+  <b>Computer Science Engineering student | Software Developer | DSA</b>
 </p>
 
 <p align="center">
