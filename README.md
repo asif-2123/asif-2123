@@ -30,7 +30,8 @@
 
 Currently focusing on **Data Structures & Algorithms** and **Software Development**, with growing exposure to **Artificial Intelligence**.  
 Primarily inclined towards **backend development**, while actively exploring specialized domains such as **Cybersecurity**, **Data Science**, and **Machine Learning**.
-Actively , working on projects of own with software and hardware . 
+Actively , working on projects of own with software and hardware .
+Wisely improving the soft skills .
 
 ---
 
