@@ -18,7 +18,7 @@
 
 ## 🎓 About Me
 
-- 🎓 **B.Tech CSE (1st Year)**  
+- 🎓 **B.Tech CSE (2nd Year)**  
 - 🏫 **University of Engineering & Management, Kolkata**
 
 
