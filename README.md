@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Computer Science Engineering student | 2⭐ @CodeChef | Software Developer | DSA</b>
+  <b>Computer Science Engineering student | 2⭐ @CodeChef | 1480 @LeetCode Rating | Software Developer | DSA</b>
 </p>
 
 <p align="center">
